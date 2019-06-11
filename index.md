@@ -1,8 +1,8 @@
 ---
 title: "A Librarian and a Cat"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
-overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+teaser: "https://commons.wikimedia.org/wiki/File:1-month-old_kitten_35.jpg#/media/File:1-month-old_kitten_35.jpg"
+overlay_image: "https://commons.wikimedia.org/wiki/File:1-month-old_kitten_35.jpg#/media/File:1-month-old_kitten_35.jpg"
 contributors:
   - name: A. Stangl
     image: https://commons.wikimedia.org/wiki/File:Cat_paw_(cloudzilla).jpg#/media/File:Cat_paw_(cloudzilla).jpg
