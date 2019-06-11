@@ -1,11 +1,11 @@
 ---
 title: "A Librarian and a Cat"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://commons.wikimedia.org/wiki/File:1-month-old_kitten_35.jpg#/media/File:1-month-old_kitten_35.jpg"
-overlay_image: "https://commons.wikimedia.org/wiki/File:1-month-old_kitten_35.jpg#/media/File:1-month-old_kitten_35.jpg"
+teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1-month-old_kitten_43.jpg/640px-1-month-old_kitten_43.jpg"
+overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1-month-old_kitten_43.jpg/640px-1-month-old_kitten_43.jpg"
 contributors:
   - name: A. Stangl
-    image: https://commons.wikimedia.org/wiki/File:Cat_paw_(cloudzilla).jpg#/media/File:Cat_paw_(cloudzilla).jpg
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/1-month-old_kitten_35.jpg/320px-1-month-old_kitten_35.jpg
     bio: A librarian who likes tech stuff. 
     twitter: angievejstickl
 ---
