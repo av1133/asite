@@ -1,13 +1,13 @@
 ---
-title: "How Zombies Inform our Understanding of Racism"
+title: "A Librarian and a Cat"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
-    bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: GeorgeARomeros
+  - name: A. Stangl
+    image: https://commons.wikimedia.org/wiki/File:Cat_paw_(cloudzilla).jpg#/media/File:Cat_paw_(cloudzilla).jpg
+    bio: A librarian who likes tech stuff. 
+    twitter: angievejstickl
 ---
 
 
